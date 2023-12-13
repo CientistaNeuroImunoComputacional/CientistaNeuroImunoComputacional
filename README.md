@@ -21,4 +21,4 @@ Estas são algumas ferramentas que domino.
   
 </div>
 
-![snake gif](https://github.com/SEU_USUARIO/SEU_REPOSITORIO/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/CientistaNeuroImunoComputacional/CientistaNeuroImunoComputacional/blob/output/github-contribution-grid-snake.svg)
